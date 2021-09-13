@@ -1,2 +1,2 @@
 # mattkinloch.github.io
-Github Pages testing
+mattkinloch.github.io

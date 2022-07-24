@@ -86,10 +86,9 @@ li.navbar {
 }
 
 li.sub-navbar {
-   float: left;
    display: inline;
-   padding-left: 0px;
-   padding-right: 0px;
+   padding-left: 10px;
+   padding-right: 10px;
    font: normal normal 20px 'Trebuchet MS',Trebuchet,Verdana,sans-serif;
    color: #ffffff;
 }

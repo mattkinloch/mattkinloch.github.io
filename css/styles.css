@@ -67,35 +67,35 @@ ul {
 
 
 ul.navbar {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-  top: 0;
-  width: 100%;
+   text-align: center;
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   background-color: #333;
+   top: 0;
+   width: 100%;
 }
 
 li.navbar {
-  float: left;
-  padding-left: 10px;
-  padding-right: 10px;
-  font: normal normal 20px 'Trebuchet MS',Trebuchet,Verdana,sans-serif;
-  color: #ffffff;
+   padding-left: 10px;
+   padding-right: 10px;
+   font: normal normal 20px 'Trebuchet MS',Trebuchet,Verdana,sans-serif;
+   color: #ffffff;
 }
 
 li a.navbar {
-  display: block;
-  color: #ffffff;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+   display: block;
+   color: #ffffff;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
 }
 
 li a:hover:not(.active) {
-  background-color: #111;
+   background-color: #111;
 }
 
 .active {
-  background-color: #04AA6D;
+   background-color: #04AA6D;
 }

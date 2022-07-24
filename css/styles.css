@@ -69,12 +69,12 @@ ul {
 ul.navbar {
    text-align: center;
    list-style: none outside none;
-   margin: 0;
+   margin: 0 auto;
    padding: 0;
    overflow: hidden;
    background-color: #333;
    top: 0;
-   width: 100%;
+   max-width: 950px;
 }
 
 li.navbar {
@@ -87,9 +87,7 @@ li.navbar {
 
 li.sub-navbar {
    display: inline;
-   padding-left: 10px;
-   padding-right: 10px;
-   font: normal normal 20px 'Trebuchet MS',Trebuchet,Verdana,sans-serif;
+   font: normal normal 16px 'Trebuchet MS',Trebuchet,Verdana,sans-serif;
    color: #ffffff;
 }
 

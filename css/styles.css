@@ -68,6 +68,7 @@ ul {
 
 ul.navbar {
    text-align: center;
+   float: left;
    list-style-type: none;
    margin: 0;
    padding: 0;
@@ -78,6 +79,7 @@ ul.navbar {
 }
 
 li.navbar {
+   display: inline;
    padding-left: 10px;
    padding-right: 10px;
    font: normal normal 20px 'Trebuchet MS',Trebuchet,Verdana,sans-serif;

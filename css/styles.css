@@ -20,8 +20,6 @@ h1.heading {
 }
 
 .center {
-   margin-left: auto;
-   margin-right: auto;
    font-size: 18px;
 }
 
@@ -60,8 +58,17 @@ ul {
    list-style-position: inside;
    color: #666666;
    font-size: 18px;
+   padding: 0;
 }
 
+ol {
+   text-align: center;
+   list-style-position: inside;
+   color: #666666;
+   font-size: 18px;
+   padding: 0;
+}
+	
 
 /* Horizontal Menu Styles */
 
